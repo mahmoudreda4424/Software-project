@@ -1,7 +1,4 @@
-# Software-project
-  هذا اللينك يحتوي على فكرة المشروع وجميع مراحل ال diagrams الخاصه به من بداية المشروع حتى مرحلة ما قبل ال implementation & design 
-  https://drive.google.com/drive/folders/1k8kwoxxmC_8GaNXWIhuOJBIKHuAG15qM?usp=drive_link
-# 🌍 Software Project - Donation & Food Management System
+# 🌍 Software Project - Food Donation & Management System
 
 This project is the result of a complete software development lifecycle journey — from idea to full implementation — created by a passionate and collaborative team.
 
@@ -95,5 +92,5 @@ If you'd like to connect, contribute, or ask any questions, feel free to reach o
 
 **Mahmoud Reda**  
 [GitHub Profile](https://github.com/mahmoudreda4424)  
-[LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace with actual profile)*
+[LinkedIn](https://www.linkedin.com/in/mahmoudredaprofile)
 
