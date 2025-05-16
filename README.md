@@ -51,7 +51,7 @@ Built using modern web technologies and following software engineering best prac
 
 We worked as one united team, where every member left a unique mark:
 
-- **Mahmoud Reda** (Back-End)
+- **Mahmoud Reda** 
 - **Mahmoud Sanad**
 - **Mohamed Haitham**
 - **Farah Akl**
