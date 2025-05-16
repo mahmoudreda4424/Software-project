@@ -78,7 +78,9 @@ Each team member carried part of the load, contributing to this milestone with p
 
 ## 🎥 Behind the Scenes
 
-A complete video walkthrough is available showing how this project evolved from paper to a working product. *(Link can be added if available)*
+A complete video walkthrough is available showing how this project evolved from paper to a working product.  
+🎬 [Watch the Video](https://www.linkedin.com/posts/mahmoudredaprofile_feedbridge-teamwork-studentproject-activity-7329127486540136448-ZSbG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEcUZZgB70JkWgzUuoiZ71i8Bso5_Jbx5Jc)
+
 
 ---
 
